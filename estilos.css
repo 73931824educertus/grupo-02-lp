@@ -1,0 +1,12 @@
+h1{
+    margin-top: 200px;
+    color: blueviolet;
+    border: 40px 30px;
+    background-position: 1000px;
+    background-color: blue;
+    inline-size: 200px;
+}
+li{
+    font-size: medium;
+    color: brown;
+}
